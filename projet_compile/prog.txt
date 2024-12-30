@@ -1,0 +1,19 @@
+program isil{
+## husshsi##
+int a,v,a,b,T[10];
+
+real h,g;
+int A[20];
+chaine ch;
+
+a=5; 
+b=3;
+T[11]=(a+b)/2;
+int const x=3;
+int i;
+for(i=1;i<5;i++)
+begin
+v=5;
+In("%f",v);
+end;
+}
